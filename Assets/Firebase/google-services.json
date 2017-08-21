@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "343979548635",
+    "firebase_url": "https://shake-race.firebaseio.com",
+    "project_id": "shake-race",
+    "storage_bucket": "shake-race.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343979548635:android:730b3e14781a71b4",
+        "android_client_info": {
+          "package_name": "com.ziudull.shakerace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343979548635-geiio1aqlut4gi4qm2k9pph19eprkql1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgEhj-aqJsEYfx3mPwwvagAW4Qch1YH54"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

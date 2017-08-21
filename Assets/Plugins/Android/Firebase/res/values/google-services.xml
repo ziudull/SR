@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="firebase_database_url" translatable="false">https://shake-race.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">343979548635</string>
+  <string name="google_storage_bucket" translatable="false">shake-race.appspot.com</string>
+  <string name="project_id" translatable="false">shake-race</string>
+  <string name="google_api_key" translatable="false">AIzaSyDgEhj-aqJsEYfx3mPwwvagAW4Qch1YH54</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDgEhj-aqJsEYfx3mPwwvagAW4Qch1YH54</string>
+  <string name="google_app_id" translatable="false">1:343979548635:android:730b3e14781a71b4</string>
+  <string name="default_web_client_id" translatable="false">343979548635-geiio1aqlut4gi4qm2k9pph19eprkql1.apps.googleusercontent.com</string>
+</resources>
